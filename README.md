@@ -3,6 +3,8 @@ Add -Djava.library.path=C:\Users\Aaron\Documents\LoadingNativeCode\src\com\Loadi
 
 Mostly followed https://www.baeldung.com/jni
 
+Compiled with Mingw64 https://github.com/niXman/mingw-builds-binaries
+
 Commands to compile and run are:
 
 g++ -c -IC:\Users\Aaron\Documents\LoadingNativeCode\src\com\LoadingNativeCode com_LoadingNativeCode_LoadingNativeCode.cpp -o com_LoadingNativeCode_LoadingNativeCode.o
